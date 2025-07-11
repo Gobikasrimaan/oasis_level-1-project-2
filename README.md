@@ -9,7 +9,7 @@ To apply clustering techniques to identify different types of customers for targ
 
  📁 Files Included:
 - `Oasis_level 1-project 2.ipynb` – Google Colab notebook with code, visualizations, and insights.
-- `ifood.csv` – Dataset used 
+- `ifood_df.csv` – Dataset used 
 
 📊 Key Insights:
 - Segmented customers into 3 groups using K-Means
