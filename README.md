@@ -1,4 +1,4 @@
-Oasis Infobyte – Level 1 task 2
+Oasis Infobyte – Level 1 project 2
  
  📌 Task: Customer Segmentation using K-Means Clustering
 
