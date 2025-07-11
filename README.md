@@ -2,7 +2,7 @@ Oasis Infobyte – Level 1 project 2
  
  📌 Task: Customer Segmentation using K-Means Clustering
 
-This project is part of the Level 1 task for the Oasis Infobyte Internship program. It focuses on grouping customers into clusters based on their age and spending patterns.
+This project is part of the Level 1 project for the Oasis Infobyte Internship program. It focuses on grouping customers into clusters based on their age and spending patterns.
 
  🧠 Objective:
 To apply clustering techniques to identify different types of customers for targeted marketing.
