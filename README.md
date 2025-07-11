@@ -8,8 +8,8 @@ This project is part of the Level 1 task for the Oasis Infobyte Internship progr
 To apply clustering techniques to identify different types of customers for targeted marketing.
 
  📁 Files Included:
-- `Oasis_Task_2.ipynb` – Google Colab notebook with code, visualizations, and insights.
-- `customer_data.csv` – Dataset used (uploaded if permitted)
+- `Oasis_level 1-project 2.ipynb` – Google Colab notebook with code, visualizations, and insights.
+- `ifood.csv` – Dataset used 
 
 📊 Key Insights:
 - Segmented customers into 3 groups using K-Means
